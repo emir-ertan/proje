@@ -1,3 +1,4 @@
 sfsdfsdfdsfdsfds
-sdfsdfsdfsdsdf bu mainden eklendi
-orhan
+<<<<<<< HEAD
+sdfsdfsdfsdsdf bu feature branchden eklendi
+suleyman
